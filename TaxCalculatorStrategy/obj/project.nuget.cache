@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aV1toa/uMMImiomM/AGgdWmjfB2ZivOaF9NGjSM6EBPWWk+jNWGK3dxknBM7Ie4zbsCfsZrI0m7ewlTqRnXDbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\Estudos\\Padrao_Strategy\\TaxCalculatorStrategy\\TaxCalculatorStrategy\\TaxCalculatorStrategy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
